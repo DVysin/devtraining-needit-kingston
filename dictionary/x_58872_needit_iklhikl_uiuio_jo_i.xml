@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="iklhikl.ui" max_length="40" name="x_58872_needit_iklhikl_uiuio_jo_i" type="collection">
+        <element choice="1" display="true" function_definition="right?" function_field="true" label="choose wisely" max_length="40" name="choose_wisely" read_only="true" type="choice">
+            <choice/>
+        </element>
+        <element label="New Field 1" max_length="40" name="new_field_1" type="integer"/>
+    </element>
+</database>

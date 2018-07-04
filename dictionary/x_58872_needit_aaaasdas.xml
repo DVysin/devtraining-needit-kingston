@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="aaa" max_length="40" name="x_58872_needit_aaaasdas" type="collection">
+        <element default="Text here" label="wiki?" max_length="65536" name="wikiwiki" type="wiki_text"/>
+    </element>
+</database>
